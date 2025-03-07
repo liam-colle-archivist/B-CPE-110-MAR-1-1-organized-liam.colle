@@ -57,7 +57,7 @@ to a libshell.a and a shell.h.
 
 The libshell.a library contains a function to call to launch the shell:
 ```c
-int workshop_shell (void *data);
+int workshop_shell(void *data);
 ```
 
 This function will then call the functions corresponding to the commands available in the shell.
