@@ -1,0 +1,8 @@
+add WIRE hdmi
+sort ID
+disp
+sort NAME
+disp
+sort TYPE
+disp
+exit

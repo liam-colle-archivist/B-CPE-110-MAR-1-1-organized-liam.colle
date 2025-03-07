@@ -1,0 +1,15 @@
+add WIRE a, ACTUATOR b, PROCESSOR c, DEVICE d, SENSOR e, SENSOR f, WIRE a
+sort TYPE -r
+disp
+sort TYPE -r
+del 2
+sort TYPE -r
+disp
+sort TYPE -r
+del 3
+sort TYPE -r
+del 0, 1, 4, 5, 6
+sort TYPE -r
+disp
+sort TYPE -r
+exit
